@@ -1,3 +1,3 @@
 # Deep-Learning
 
-Code for Assignments and Project for Deep Learning course.
+Code for assignments and implementations for Deep Learning course.
