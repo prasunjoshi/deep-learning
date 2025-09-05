@@ -1,4 +1,4 @@
-# Deep Learning Portfolio
+# Deep Learning
 
 This repository showcases my expertise in deep learning through hands-on implementations of neural network architectures built from scratch. Each project demonstrates a deep understanding of the mathematical foundations and computational principles underlying modern deep learning frameworks.
 
